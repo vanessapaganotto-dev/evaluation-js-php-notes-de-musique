@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Conversion de notes</title>
+<link rel="stylesheet" href="style.css">
+</head>
+    <body>
+          <h1>Convertisseur de notes</h1>
+
+          <form id="note-form" action="convert.php">
+            <label for="note-select">Choisissez une note :</label>
+            <select id="note-select" name="note">
+              <option value="do">do</option>
+              <option value="ré">ré</option>
+              <option value="mi">mi</option>
+              <option value="fa">fa</option>
+              <option value="sol">sol</option>
+              <option value="la">la</option>
+              <option value="si">si</option>
+            </select>
+          </form>
+            <div id="resultat"></div>
+            <script src="script.js" defer></script>
+    </body>
+</html>
