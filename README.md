@@ -40,3 +40,22 @@ Copier les fichiers dans un environnement avec serveur PHP (ex. Apache, XAMPP, W
 Ouvrir la page index.html dans un navigateur
 
 Choisir une note dans le menu déroulant pour voir sa conversion s’afficher
+
+
+Technologies utilisées
+
+HTML5
+
+CSS3
+
+PHP (backend)
+
+JavaScript (pour interaction dynamique)
+
+Auteur
+
+Vanessa PAGANOTTO (exemple)
+
+Licence
+
+Projet sous licence MIT.
